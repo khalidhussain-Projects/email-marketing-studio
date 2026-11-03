@@ -1,3 +1,7 @@
+# Personal Claude Code settings
+.claude/settings.local.json
+CLAUDE.local.md
+
 # Secrets
 .env
 .env.*
@@ -11,8 +15,11 @@ __pycache__/
 dist/
 build/
 
-# OS and editor files
+# System files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Editor files
 .vscode/
 .idea/
