@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& 'C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe' auth status)",
+      "Bash(npx --yes skills find email marketing)"
+    ]
+  }
+}
