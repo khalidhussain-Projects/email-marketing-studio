@@ -1,4 +1,7 @@
 {
+  "enabledPlugins": {
+    "marketing@knowledge-work-plugins": true
+  },
   "extraKnownMarketplaces": {
     "knowledge-work-plugins": {
       "source": {
