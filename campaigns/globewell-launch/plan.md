@@ -49,6 +49,7 @@ These are leads, not policyholders. Don't call them "policyholders" yet. Write t
 | **Students abroad, and their parents** | Studying overseas, or paying for a child who is | Reliable cover in the study country | Whether the study country is covered. Cost. | Depends on country. Titanium tiers cover the US. |
 | **Families planning treatment abroad** | Want the choice to be treated outside Pakistan | Freedom to choose where to be treated, and cover for family | Which conditions are covered, and the limits | Any tier, depending on region |
 | **Gulf and regional visitors** | Mostly travel to the UAE and nearby | Affordable regional cover | "Do I need worldwide cover?" | Silver, Bronze |
+| **Pilgrims abroad** (Umrah and Hajj) | Travel to Saudi Arabia for Umrah or Hajj, often with family or older parents | Health cover for themselves and their family during the trip | Which plan covers Saudi Arabia. Cost. Age limits for older parents [TBC]. | Gold, Platinum, Platinum Plus, Titanium, Titanium Plus. Saudi Arabia isn't in the Silver or Bronze regions. **Compliance to confirm.** |
 
 Group sizes: [TBC]. If we can't tag leads by group, E1 asks them to choose.
 
@@ -81,6 +82,7 @@ Use the website's wording exactly. Don't make it stronger.
 - No fear lines, such as "What if you fall ill abroad?"
 - Nothing about claims being paid, or how fast. Neither appears on the page.
 - Never "Shariah-compliant". Globewell is a conventional product.
+- **For pilgrims:** don't link Globewell – International Health Insurance Plan to religious duty or suggest it suits Umrah or Hajj on religious grounds. It is conventional insurance. No fear lines about heat, crowds or illness during the trip.
 - In emails, always write the full name "Globewell – International Health Insurance Plan". Never write "Globewell" on its own.
 - No pressure words ("act now", "limited time", "hurry", "don't miss out", "last chance"). No emojis. At most one exclamation mark, and best none.
 - No prices, age limits or exclusions until they are confirmed from the brochure or by the product team.
@@ -128,7 +130,7 @@ Use the website's wording exactly. Don't make it stronger.
 | Hand check of the page | A person confirms every quote in section 3 | Must-have | 20 Nov |
 | Brochure review | Terms, exclusions, age limits, disclaimers | Must-have | 24 Nov |
 | SECP disclaimer and risk wording | Supplied by compliance, used in every email | Must-have | 27 Nov |
-| E1 to E5 drafts (E2 in 4 versions) | See calendar | Must-have | Drafts 30 Nov, approved 3 Dec |
+| E1 to E5 drafts (E2 in 5 versions) | See calendar | Must-have | Drafts 30 Nov, approved 3 Dec |
 | Tier table graphic | The seven tiers copied exactly from the page | Must-have | 30 Nov |
 | Tracking links | Tags for each email and group on the #GetQuote link | Must-have | 3 Dec |
 | Plain-text version of each email | For readers whose email doesn't show images | Nice-to-have | 3 Dec |
@@ -155,7 +157,7 @@ Leads may not have a Relationship Manager yet. Confirm who follows up when a lea
 | **Quote requests** (main goal) | **5% of the final send list** by 3 Jan. The number is set when the lead count is confirmed (by 27 Nov). | #GetQuote form submissions from the email tracking links |
 | Calls to the UAN that mention the email | Track it | The call team asks "How did you hear about us?" |
 | Policies bought | **[x]% of quote requests** by Mon 1 Feb. The rate comes from the sales team. | Sales team report |
-| Quote requests by group | Compare the four groups | Group tags from E1 |
+| Quote requests by group | Compare the five groups | Group tags from E1 |
 | Click rate per email | 4% or more | Email tool |
 | Unsubscribe rate | Under 2% in total | Email tool |
 
