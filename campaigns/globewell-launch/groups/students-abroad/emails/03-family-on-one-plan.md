@@ -1,0 +1,37 @@
+Subject: Your family on one plan
+Preview: Family features on Globewell – International Health Insurance Plan.
+
+Dear {{first_name}},
+
+If you're a parent with a child studying abroad, it helps to know that with Globewell – International Health Insurance Plan, your family can be covered on the same plan as you.
+
+Our website lists these family features, in these words:
+
+- **"Family members can be included in the plan."**
+- **"Coverage for companion hospital stays"**
+- **"Accommodation for newborns included"**
+
+Our brochure explains what these mean:
+
+- **One plan for everyone.** "All applicants must apply for the same plan."
+- **Companion stays.** Someone can stay "in the same hospital room with the insured person" during an eligible hospital stay "within the area of cover".
+- **Newborns.** This pays for "the child who is less than 16 weeks old to stay in the hospital while the insured mother is receiving eligible inpatient treatment at such hospital."
+
+Ask for a quote for your family, for example you and your child who studies abroad. Our call centre team will explain what each feature covers on the plan you choose.
+
+[Get a quote](https://tpllife.com/international-health-insurance-plan-globewell/#GetQuote)
+
+Terms and conditions apply. Cover, limits, waiting periods and exclusions depend on your plan. Please refer to the policy wording for full terms and conditions.
+
+[COMPLIANCE: the line above is a proposed disclaimer based on the Globewell brochure. Please confirm it and add any SECP wording required. Request drafted in campaigns/globewell-launch/compliance-request.md. Remove this note before sending.]
+
+[SOURCE NOTE FOR COMPLIANCE, REMOVE BEFORE SENDING: all quoted product wording is from https://tpllife.com/international-health-insurance-plan-globewell/, checked 2026-11-08 by automated fetch. Site footer: "Last date of website update: 2026-10-30". Disclaimer and footnote wording is from the Globewell brochure (https://tpllife.com/Doc/wp-content/uploads/2025/03/productBrocher/Globewell-health-insurance.pdf), checked 2026-11-08. Quote check by the quote reviewer (digitalfte3@gmail.com): still to be done. Request drafted in campaigns/globewell-launch/quote-check-request.md.]
+
+Stay protected,
+
+Your Relationship Manager
+TPL Life Insurance Limited
+UAN: (021) 111 000 330 | tpllife.com
+
+You're getting this because you made a quote enquiry with TPL Life.
+TPL Life Insurance Limited, 20th Floor, Sky Tower – East Wing, Dolmen City, Block 4, Clifton, Karachi · Unsubscribe: {{unsubscribe_url}}
