@@ -29,9 +29,9 @@ Every product fact in this plan comes from one page:
 
 - **Campaign name:** "Covered Abroad"
 - **Summary:** Show leads who travel, study or get treatment abroad that Globewell gives dollar-based health cover outside Pakistan, and invite them to ask for a quote.
-- **Main goal:** [TBC] leads ask for a Globewell quote between 7 December 2026 and 3 January 2027. Suggested starting target: **5% of the lead list**. Set the real number once we know the list size.
+- **Main goal:** **5% of the leads on the final send list** ask for a Globewell quote between 7 December 2026 and 3 January 2027. The lead count is confirmed by **Fri 27 November 2026**, and the target number is set from it.
 - **Other goals:**
-  - [TBC] Globewell policies bought from those quotes, tracked until 31 January 2027.
+  - **[x]% of quote requests** turn into Globewell policies bought, tracked until 31 January 2027. The rate is set once the sales team confirms its usual rate.
   - Learn which reader group asks for quotes most.
   - Keep unsubscribes under 2%.
 
@@ -151,9 +151,9 @@ Leads may not have a Relationship Manager yet. Confirm who follows up when a lea
 
 | Measure | Target | How we track it |
 |---|---|---|
-| **Quote requests** (main goal) | [TBC], suggested 5% of leads | #GetQuote form submissions from the email tracking links |
+| **Quote requests** (main goal) | **5% of the final send list** by 3 Jan. The number is set when the lead count is confirmed (by 27 Nov). | #GetQuote form submissions from the email tracking links |
 | Calls to the UAN that mention the email | Track it | The call team asks "How did you hear about us?" |
-| Policies bought | [TBC] by 31 Jan | Sales team report |
+| Policies bought | **[x]% of quote requests** by 31 Jan. The rate comes from the sales team. | Sales team report |
 | Quote requests by group | Compare the four groups | Group tags from E1 |
 | Click rate per email | 4% or more | Email tool |
 | Unsubscribe rate | Under 2% in total | Email tool |
@@ -191,8 +191,8 @@ A small budget, email only. Most of the cost is staff time.
 1. **Check the page by hand** and confirm every quote in section 3. Note who checked it and when.
 2. **Read the brochure** for age limits, exclusions, terms and disclaimers.
 3. **Get the SECP disclaimer and risk wording** from compliance.
-4. **Confirm the list:** how many leads there are, whether they agreed to marketing email, and whether we can tag their group.
+4. **Confirm the list by Fri 27 November 2026:** how many leads there are, whether they agreed to marketing email, and whether we can tag their group.
 5. **Decide who signs off for leads**, since they may not have a Relationship Manager yet.
-6. **Set the target** for quote requests and policies bought.
+6. **Turn the rates into numbers:** 5% of the confirmed lead count for quote requests, and the sales team's usual rate for policies bought.
 7. **Agree capacity and callback** with the sales team.
 8. Draft E1 to E5 in this folder. **Compliance signs off each draft.** This studio does not send email.
