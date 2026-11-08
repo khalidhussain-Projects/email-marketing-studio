@@ -31,7 +31,7 @@ Every product fact in this plan comes from one page:
 - **Summary:** Show leads who travel, study or get treatment abroad that Globewell gives dollar-based health cover outside Pakistan, and invite them to ask for a quote.
 - **Main goal:** **5% of the leads on the final send list** ask for a Globewell quote between 7 December 2026 and 3 January 2027. The lead count is confirmed by **Fri 27 November 2026**, and the target number is set from it.
 - **Other goals:**
-  - **[x]% of quote requests** turn into Globewell policies bought, tracked until 31 January 2027. The rate is set once the sales team confirms its usual rate.
+  - **[x]% of quote requests** turn into Globewell policies bought, tracked until Monday 1 February 2027. The rate is set once the sales team confirms its usual rate.
   - Learn which reader group asks for quotes most.
   - Keep unsubscribes under 2%.
 
@@ -111,7 +111,7 @@ Use the website's wording exactly. Don't make it stronger.
 | 3 | 22 to 27 Dec | No emails | — | Quiet week over the holidays (25 Dec is Quaid-e-Azam Day) | — |
 | 4 | Tue 29 Dec | **E5. "Planning trips or study in 2027?"** | Haven't asked for a quote | A calm reminder before new-year travel and January terms. No pressure words. | Not started |
 | After | Wed 6 Jan | Results write-up | — | Saved to `notes/` | — |
-| After | 31 Jan | Policies-bought check | — | Shared with the sales team | — |
+| After | Mon 1 Feb | Policies-bought check | — | Shared with the sales team | — |
 
 **What depends on what:**
 - Compliance approval and disclaimer text come before any draft is final.
@@ -153,12 +153,12 @@ Leads may not have a Relationship Manager yet. Confirm who follows up when a lea
 |---|---|---|
 | **Quote requests** (main goal) | **5% of the final send list** by 3 Jan. The number is set when the lead count is confirmed (by 27 Nov). | #GetQuote form submissions from the email tracking links |
 | Calls to the UAN that mention the email | Track it | The call team asks "How did you hear about us?" |
-| Policies bought | **[x]% of quote requests** by 31 Jan. The rate comes from the sales team. | Sales team report |
+| Policies bought | **[x]% of quote requests** by Mon 1 Feb. The rate comes from the sales team. | Sales team report |
 | Quote requests by group | Compare the four groups | Group tags from E1 |
 | Click rate per email | 4% or more | Email tool |
 | Unsubscribe rate | Under 2% in total | Email tool |
 
-**Reporting:** a short check every Monday, a full write-up on 6 January, and a check on policies bought on 31 January.
+**Reporting:** a short check every Monday, a full write-up on 6 January, and a check on policies bought on Monday 1 February.
 
 ---
 
