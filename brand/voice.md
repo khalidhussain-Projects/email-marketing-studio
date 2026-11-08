@@ -79,7 +79,16 @@ Product names come from tpllife.com (last updated 2026-10-30). Check them again 
 5. **Follow SECP rules.** Include the disclaimers and risk warnings each product needs, and get compliance sign-off before anything is sent.
 6. **No claim we can't back up.** If we can't point to proof for a claim, or a tpllife.com page that makes it, we don't make it. This includes health claims, such as saying a product keeps you healthy.
 
-**Claims already on tpllife.com come first.** If tpllife.com makes a claim, we may use it, even if a rule above would otherwise block it. You must open the page and see the exact words yourself. If you can't, or if someone only tells you the site says it, treat the claim as not on the site. When we do use one:
+**Claims already on tpllife.com come first.** If tpllife.com makes a claim, we may use it, even if a rule above would otherwise block it. Documents on tpllife.com, such as product brochures, count as pages.
+
+Every quote must be checked against the page itself, word for word:
+
+- The writer reads the page or document and copies the words exactly.
+- Then the quote reviewer (digitalfte3@gmail.com) opens the page, checks each quote and confirms in writing, with their name and the date.
+- Until the reviewer confirms, the draft says the check is still to be done.
+- If no one has seen the exact words on the page, or someone only says the site says it, treat the claim as not on the site.
+
+When we do use one:
 
 - Use the website's wording exactly. Don't make it stronger.
 - Copy the disclaimers and risk warnings that go with it on the website.

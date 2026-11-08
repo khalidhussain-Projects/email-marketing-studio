@@ -18,8 +18,8 @@ Every product fact in this plan comes from one page:
 
 - **Page:** https://tpllife.com/international-health-insurance-plan-globewell/
 - **Checked:** 2026-11-08. The site footer says "Last date of website update: 2026-10-30".
-- **How it was checked:** the page was read through an automated web fetch. **Before drafting, someone must open the page and confirm each quote below word for word.**
-- **Not yet checked:** the product brochure (https://tpllife.com/Doc/wp-content/uploads/2025/03/productBrocher/Globewell-health-insurance.pdf). It may hold the terms, exclusions and disclaimers.
+- **How it was checked:** the page was read through an automated web fetch. **The quote reviewer (digitalfte3@gmail.com) must confirm each quote word for word before anything is sent** (see `quote-check-request.md`).
+- **Brochure:** https://tpllife.com/Doc/wp-content/uploads/2025/03/productBrocher/Globewell-health-insurance.pdf, read 2026-11-08. Findings in `notes/globewell-brochure-check-2026-11-08.md`.
 
 **Not found on the page:** age limits, premiums, who the plan is for, claims and payout wording, and any disclaimer or risk-warning text. **Compliance must supply the required SECP disclaimer and risk wording before E1 is drafted.**
 
@@ -49,7 +49,7 @@ These are leads, not policyholders. Don't call them "policyholders" yet. Write t
 | **Students abroad, and their parents** | Studying overseas, or paying for a child who is | Reliable cover in the study country | Whether the study country is covered. Cost. | Depends on country. Titanium tiers cover the US. |
 | **Families planning treatment abroad** | Want the choice to be treated outside Pakistan | Freedom to choose where to be treated, and cover for family | Which conditions are covered, and the limits | Any tier, depending on region |
 | **Gulf and regional visitors** | Mostly travel to the UAE and nearby | Affordable regional cover | "Do I need worldwide cover?" | Silver, Bronze |
-| **Pilgrims abroad** (Umrah and Hajj) | Travel to Saudi Arabia for Umrah or Hajj, often with family or older parents | Health cover for themselves and their family during the trip | Which plan covers Saudi Arabia. Cost. Age limits for older parents [TBC]. | Gold, Platinum, Platinum Plus, Titanium, Titanium Plus. Saudi Arabia isn't in the Silver or Bronze regions. **Compliance to confirm.** |
+| **Pilgrims abroad** (Umrah and Hajj) | Travel to Saudi Arabia for Umrah or Hajj, often with family or older parents | Health cover for themselves and their family during the trip | Which plan covers Saudi Arabia. Cost. Maximum entry age is 70 (brochure). | Gold, Platinum, Platinum Plus, Titanium, Titanium Plus. Saudi Arabia isn't in the Silver or Bronze regions. **Compliance to confirm.** |
 
 Group sizes: [TBC]. If we can't tag leads by group, E1 asks them to choose.
 
@@ -130,7 +130,7 @@ Use the website's wording exactly. Don't make it stronger.
 | Hand check of the page | A person confirms every quote in section 3 | Must-have | 20 Nov |
 | Brochure review | Terms, exclusions, age limits, disclaimers | Must-have | 24 Nov |
 | SECP disclaimer and risk wording | Supplied by compliance, used in every email | Must-have | 27 Nov |
-| E1 to E5 drafts (E2 in 5 versions) | See calendar | Must-have | Drafts 30 Nov, approved 3 Dec |
+| E1 to E5 drafts (E2 in 3 versions, one per lead group in `leads.csv`) | See calendar | Must-have | Drafts 30 Nov, approved 3 Dec |
 | Tier table graphic | The seven tiers copied exactly from the page | Must-have | 30 Nov |
 | Tracking links | Tags for each email and group on the #GetQuote link | Must-have | 3 Dec |
 | Plain-text version of each email | For readers whose email doesn't show images | Nice-to-have | 3 Dec |
@@ -146,7 +146,7 @@ TPL Life Insurance Limited
 UAN: (021) 111 000 330 | tpllife.com
 ```
 
-Leads may not have a Relationship Manager yet. Confirm who follows up when a lead replies (see section 10).
+Leads are handled by the call centre. The emails say "our call centre team will contact you", and the sign-off stays as voice.md requires.
 
 ---
 
@@ -191,11 +191,11 @@ A small budget, email only. Most of the cost is staff time.
 
 ## 10. Next steps
 
-1. **Check the page by hand** and confirm every quote in section 3. Note who checked it and when.
-2. **Read the brochure** for age limits, exclusions, terms and disclaimers.
+1. **Quote check:** the quote reviewer (digitalfte3@gmail.com) confirms every quote against the page. Request drafted in `quote-check-request.md`.
+2. **Read the brochure.** Done 2026-11-08.
 3. **Get the SECP disclaimer and risk wording** from compliance.
 4. **Confirm the list by Fri 27 November 2026:** how many leads there are, whether they agreed to marketing email, and whether we can tag their group.
-5. **Decide who signs off for leads**, since they may not have a Relationship Manager yet.
+5. **Who follows up with leads:** the call centre. Decided 2026-11-08.
 6. **Turn the rates into numbers:** 5% of the confirmed lead count for quote requests, and the sales team's usual rate for policies bought.
 7. **Agree capacity and callback** with the sales team.
 8. Draft E1 to E5 in this folder. **Compliance signs off each draft.** This studio does not send email.

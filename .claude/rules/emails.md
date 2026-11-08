@@ -1,6 +1,7 @@
 ---
 paths:
   - "campaigns/**/emails/*.md"
+  - "campaigns/**/emails/plain-text/*.txt"
 ---
 
 # Rules for email files
@@ -30,6 +31,7 @@ These rules apply to every email file in every campaign, and only to email files
 ## 4. Disclaimers go above the sign-off
 
 - Any disclaimers or risk warnings that compliance asks for go after the main message and before the sign-off.
+- Notes for compliance go straight after the disclaimers, in square brackets, and say "Remove before sending". This includes the source note: the page link, the date it was checked and whether the quote reviewer has confirmed it.
 
 ## 5. End with the sign-off, then the footer
 
@@ -42,7 +44,15 @@ TPL Life Insurance Limited
 UAN: (021) 111 000 330 | tpllife.com
 
 You're getting this because you made a quote enquiry with TPL Life.
-TPL Life Insurance Limited, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+TPL Life Insurance Limited, 20th Floor, Sky Tower – East Wing, Dolmen City, Block 4, Clifton, Karachi · Unsubscribe: {{unsubscribe_url}}
 
 - Nothing goes after the footer.
-- Keep `{{company_address}}` and `{{unsubscribe_url}}` as placeholders. Don't fill them in.
+- The address is the one on tpllife.com (footer and Contact Us page, checked 2026-11-08). If the website changes it, update it here and in every email.
+- Keep `{{unsubscribe_url}}` as a placeholder. The email tool makes a separate unsubscribe link for each reader, so it can't be filled in by hand.
+
+## 6. Every email has a plain-text version
+
+- Each email file has a matching `.txt` file in `emails/plain-text/` with the same name and the same words.
+- In the plain-text file, tables become lists, the button becomes `Button text: https://...`, and there is no bold or other formatting.
+- Rules 1 to 5 apply to it too.
+- Whenever an email file changes, update its plain-text file to match.

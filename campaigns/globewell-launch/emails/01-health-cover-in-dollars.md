@@ -14,13 +14,15 @@ Here is what the plan offers, in the words on our website:
 
 There are seven plans, from Titanium Plus to Bronze. Each one covers a different area. In our next email, we'll show you which plans fit the places you go.
 
-If you'd like to know what your cover would cost, ask us for a quote. Fill in your details and a representative will contact you.
+If you'd like a quote for Globewell – International Health Insurance Plan, fill in your details and our call centre team will contact you.
 
 [Get a quote](https://tpllife.com/international-health-insurance-plan-globewell/#GetQuote)
 
-[COMPLIANCE: add the SECP disclaimer and risk wording here before sending. None was found on the Globewell page.]
+Terms and conditions apply. Cover, limits, waiting periods and exclusions depend on your plan. Please refer to the policy wording for full terms and conditions.
 
-[SOURCE NOTE FOR COMPLIANCE, REMOVE BEFORE SENDING: all quoted product wording is from https://tpllife.com/international-health-insurance-plan-globewell/, checked 2026-11-08 by automated fetch. Site footer: "Last date of website update: 2026-10-30". A person must still check each quote by hand.]
+[COMPLIANCE: the line above is a proposed disclaimer based on the Globewell brochure. Please confirm it and add any SECP wording required. Request drafted in campaigns/globewell-launch/compliance-request.md. Remove this note before sending.]
+
+[SOURCE NOTE FOR COMPLIANCE, REMOVE BEFORE SENDING: all quoted product wording is from https://tpllife.com/international-health-insurance-plan-globewell/, checked 2026-11-08 by automated fetch. Site footer: "Last date of website update: 2026-10-30". Disclaimer and footnote wording is from the Globewell brochure (https://tpllife.com/Doc/wp-content/uploads/2025/03/productBrocher/Globewell-health-insurance.pdf), checked 2026-11-08. Quote check by the quote reviewer (digitalfte3@gmail.com): still to be done. Request drafted in campaigns/globewell-launch/quote-check-request.md.]
 
 Stay protected,
 
@@ -29,4 +31,4 @@ TPL Life Insurance Limited
 UAN: (021) 111 000 330 | tpllife.com
 
 You're getting this because you made a quote enquiry with TPL Life.
-TPL Life Insurance Limited, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+TPL Life Insurance Limited, 20th Floor, Sky Tower – East Wing, Dolmen City, Block 4, Clifton, Karachi · Unsubscribe: {{unsubscribe_url}}

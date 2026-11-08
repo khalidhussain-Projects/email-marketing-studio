@@ -65,13 +65,15 @@ Every email has one button: "Get a quote", linking to `https://tpllife.com/inter
 
 ## Open items before sending
 
-- **SECP disclaimer and risk wording:** none on the Globewell page. Each email has a `[COMPLIANCE: ...]` placeholder above the sign-off.
-- **Hand check of the page:** quotes were checked against the page by automated fetch on 2026-11-08. They all matched. voice.md says a person must open the page and see the words, so this still needs doing.
-- **Saudi Arabia (E2 pilgrims):** the email says the "Worldwide" and "Worldwide excluding US" plans include Saudi Arabia. The page doesn't name Saudi Arabia. Compliance to confirm.
-- **Bronze asterisks:** the page shows "Thailand\* & Malaysia\*" for Bronze with no footnote. Copied as shown. Ask the product team what they mean.
+- **SECP disclaimer and risk wording:** each email carries a proposed disclaimer from the brochure, marked for compliance. Request drafted in `compliance-request.md`, not yet sent.
+- **Quote check:** the website team will check every quote against the page. Request drafted in `quote-check-request.md`, not yet sent.
+- **Saudi Arabia (E2 pilgrims):** neither the page nor the brochure names it. The email says the top five plans cover it, because it isn't on the brochure's sanctions list. Compliance to confirm (question 9 in `compliance-request.md`).
+- **Students abroad (E2 students):** the brochure says buyers must live in Pakistan 185 days a year or more. Kept as is for now. Compliance to confirm (question 7).
+- **Plain-text versions:** in `emails/plain-text/`. Rebuild them after any change to the `.md` files.
+- **Bronze asterisks:** explained from the brochure (20% co-payment in Thailand or Malaysia) under each plan table. See `notes/globewell-brochure-check-2026-11-08.md`.
 - **"Cashless" and "companion hospital stays":** quoted only, with no explanation. Add one only if the brochure or product team confirms it.
 - **Not used:** "PAKISTAN'S FIRST-EVER..." and "Fast access to medical assistance worldwide" need compliance approval first.
-- **Who signs for leads:** they may not have a Relationship Manager yet (plan step 5).
+- **Who follows up with leads:** the call centre. The emails say "our call centre team will contact you". The sign-off stays "Your Relationship Manager", as voice.md requires. Compliance to confirm (question 11).
 - **Footer line:** it says "you made a quote enquiry". That matches the `consent` column in `leads.csv`. Check it's true for the final list.
 
 ## A/B tests

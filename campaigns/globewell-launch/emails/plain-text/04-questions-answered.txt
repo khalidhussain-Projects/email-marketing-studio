@@ -1,0 +1,49 @@
+Subject: Your questions about our plan, answered
+Preview: What's covered, cashless care, emergencies and how to get a quote.
+
+Dear {{first_name}},
+
+Here are short answers to common questions about Globewell – International Health Insurance Plan.
+
+What treatment is covered?
+
+The website lists: Air Ambulance Facility, Chemotherapy, Dialysis, Hormone Replacement Therapy, Dental Care (due to accident), Organ Transplant, Reconstructive Surgery and Surgical Implants. What's covered depends on your plan. Your quote will show the details.
+
+What about hospital stays abroad?
+
+The plan offers "International cashless hospitalization in covered areas." Our brochure explains: "We will settle the eligible In-Patient treatment claims via direct billing to the hospitals on our panel in Pakistan and overseas within the agreed network of providers and in your chosen area of cover." In plain words: if you stay in a hospital in our network, within your plan's area, we pay the hospital directly for eligible treatment.
+
+Do I need to tell you before a hospital stay?
+
+Yes. Our brochure says: "Pre-notification for all eligible In-Patient treatment or Daycare treatment is required otherwise the insured person would have to pay 20% co-insurance on the eligible expenses." That means if you don't tell us first, you pay 20% of the eligible costs yourself.
+
+What if I need help in an emergency?
+
+The website lists "US$20,000 emergency coverage worldwide" and "Emergency in-patient and out-patient treatment". That means a hospital stay, or a visit where you don't stay overnight.
+
+Our brochure explains the limits. The US$20,000 is for "Emergency treatment only and up to a maximum limit of USD 20,000 per policy year", which means in each year of your policy. It applies when you are outside your plan's area of cover, and your stay outside that area must "not exceed 90 days per trip". Our brochure also says: "You are not covered if you have specifically travelled outside your area of cover to obtain treatment, or for pregnancy or childbirth."
+
+How much does it cost?
+
+It depends on the plan and who is on it. A quote will tell you.
+
+How do I get a quote?
+
+Fill in your details on our website and our call centre team will contact you. Or call us on (021) 111 000 330.
+
+Get a quote: https://tpllife.com/international-health-insurance-plan-globewell/#GetQuote
+
+Terms and conditions apply. Cover, limits, waiting periods and exclusions depend on your plan. Please refer to the policy wording for full terms and conditions.
+
+[COMPLIANCE: the line above is a proposed disclaimer based on the Globewell brochure. Please confirm it and add any SECP wording required. Request drafted in campaigns/globewell-launch/compliance-request.md. Remove this note before sending.]
+
+[SOURCE NOTE FOR COMPLIANCE, REMOVE BEFORE SENDING: all quoted product wording is from https://tpllife.com/international-health-insurance-plan-globewell/, checked 2026-11-08 by automated fetch. Site footer: "Last date of website update: 2026-10-30". Disclaimer and footnote wording is from the Globewell brochure (https://tpllife.com/Doc/wp-content/uploads/2025/03/productBrocher/Globewell-health-insurance.pdf), checked 2026-11-08. Quote check by the quote reviewer (digitalfte3@gmail.com): still to be done. Request drafted in campaigns/globewell-launch/quote-check-request.md.]
+
+Stay protected,
+
+Your Relationship Manager
+TPL Life Insurance Limited
+UAN: (021) 111 000 330 | tpllife.com
+
+You're getting this because you made a quote enquiry with TPL Life.
+TPL Life Insurance Limited, 20th Floor, Sky Tower – East Wing, Dolmen City, Block 4, Clifton, Karachi · Unsubscribe: {{unsubscribe_url}}
