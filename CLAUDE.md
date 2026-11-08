@@ -1,6 +1,6 @@
 # Email Marketing Studio
 
-This studio is for planning and writing email campaigns for a small business.
+This studio is for planning and writing email campaigns for TPL Life Insurance Limited. It is for TPL Life only. If a request is for another brand, say so and ask before writing anything, because the rules below are written for TPL Life.
 
 ## Folders
 
