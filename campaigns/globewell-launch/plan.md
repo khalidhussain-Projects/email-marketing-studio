@@ -28,7 +28,7 @@ Every product fact in this plan comes from one page:
 ## 1. Campaign overview
 
 - **Campaign name:** "Covered Abroad"
-- **Summary:** Show leads who travel, study or get treatment abroad that Globewell gives dollar-based health cover outside Pakistan, and invite them to ask for a quote.
+- **Summary:** Show leads who travel, study or get treatment abroad that Globewell – International Health Insurance Plan gives dollar-based health cover at home and abroad, depending on the plan, and invite them to ask for a quote.
 - **Main goal:** **5% of the leads on the final send list** ask for a Globewell quote between 7 December 2026 and 3 January 2027. The lead count is confirmed by **Fri 27 November 2026**, and the target number is set from it.
 - **Other goals:**
   - **[x]% of quote requests** turn into Globewell policies bought, tracked until Monday 1 February 2027. The rate is set once the sales team confirms its usual rate.
@@ -58,16 +58,16 @@ Group sizes: [TBC]. If we can't tag leads by group, E1 asks them to choose.
 
 ## 3. Key messages
 
-**Core message:** Globewell gives you and your family dollar-based health cover abroad, so you can get treated where you need to.
+**Core message:** Globewell – International Health Insurance Plan gives you and your family dollar-based health cover, with the freedom to choose where you're treated within your plan's covered area.
 
 Use the website's wording exactly. Don't make it stronger.
 
 | Message | Best for | Exact wording from tpllife.com (page in section 0) |
 |---|---|---|
-| **Cover in dollars, up to US$500,000** | Everyone | "WITH COVERAGE UP TO US$500,000" · "Dollar-based annual coverage limit." |
+| **Dollar-based cover, up to US$500,000 depending on your plan** | Everyone | "WITH COVERAGE UP TO US$500,000" · "Dollar-based annual coverage limit." |
 | **Choose where you're treated** | Treatment abroad, students | "Freedom to choose treatment locations worldwide." · "Access 1.4 million healthcare centers worldwide." |
 | **Your family can be on the same plan** | Families, parents of students | "Family members can be included in the plan." |
-| **Hospital bills paid directly in covered areas** | Travellers | "International cashless hospitalization in covered areas." Explain it in the same sentence: the plan settles the bill with the hospital, so you don't pay up front. **Ask compliance to confirm this explanation.** |
+| **Cashless hospital stays in covered areas** | Travellers | "International cashless hospitalization in covered areas." Use these words only. Add a plain-English explanation only if the brochure or the product team confirms what "cashless" covers, and quote it exactly. |
 | **Help in an emergency** | Travellers, Gulf visitors | "US$20,000 emergency coverage worldwide" · "Emergency in-patient and out-patient treatment" (explain: a hospital stay, or a visit without staying overnight) |
 | **A plan for where you go** | Everyone | The seven tiers, Titanium Plus to Bronze, with the limit and region of each, copied exactly from the page |
 
@@ -81,6 +81,7 @@ Use the website's wording exactly. Don't make it stronger.
 - No fear lines, such as "What if you fall ill abroad?"
 - Nothing about claims being paid, or how fast. Neither appears on the page.
 - Never "Shariah-compliant". Globewell is a conventional product.
+- In emails, always write the full name "Globewell – International Health Insurance Plan". Never write "Globewell" on its own.
 - No pressure words ("act now", "limited time", "hurry", "don't miss out", "last chance"). No emojis. At most one exclamation mark, and best none.
 - No prices, age limits or exclusions until they are confirmed from the brochure or by the product team.
 - Not the homepage's "10% to charity" line. It's homepage text, not part of the Globewell page.
