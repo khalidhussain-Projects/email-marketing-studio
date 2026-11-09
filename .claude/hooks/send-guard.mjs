@@ -2,8 +2,28 @@
 // Reads the tool call as JSON on stdin. Exit 0 allows it; exit 2 blocks it
 // and the message on stderr is shown to Claude as the reason.
 
+import { readFileSync } from "node:fs";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
+
 const ALLOWED_DOMAIN = "@resend.dev";
-const MY_EMAIL = (process.env.MY_EMAIL || "").trim().toLowerCase();
+
+// MY_EMAIL comes from a real environment variable if set, otherwise from
+// MY_EMAIL=... in the project's .env file. If neither is set, only
+// @resend.dev addresses are allowed.
+function myEmailFromDotEnv() {
+  const envFile = join(dirname(fileURLToPath(import.meta.url)), "..", "..", ".env");
+  try {
+    for (const line of readFileSync(envFile, "utf8").split(/\r?\n/)) {
+      const m = line.trim().match(/^MY_EMAIL\s*=\s*(.*)$/);
+      if (m) return m[1].trim().replace(/^(["'])(.*)\1$/, "$2");
+    }
+  } catch {
+    // No .env or unreadable: fall back to the stricter rule.
+  }
+  return "";
+}
+const MY_EMAIL = (process.env.MY_EMAIL || myEmailFromDotEnv()).trim().toLowerCase();
 
 // Tools that can reach whole lists of people. Always blocked.
 const ALWAYS_BLOCK = new Set([
