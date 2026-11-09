@@ -13,8 +13,8 @@ This studio is for planning and writing email campaigns for TPL Life Insurance L
 
 - Write in plain English. Use short sentences and everyday words, and avoid jargon.
 - Never send email to real people. Draft emails only. Don't run any command or tool that sends email, with one exception:
-  - Sending through Resend (the `resend` server in `.mcp.json`) is allowed only to Resend's test addresses, which end in `@resend.dev`, and to my own address, khaled.hosseinn@gmail.com. Never send to any other address, including the practice leads in `leads/leads.csv`.
-  - A guard will enforce this in the next step. Until it is in place, don't send anything through Resend.
+  - Sending through Resend (the `resend` server in `.mcp.json`) is allowed only to Resend's test addresses, which end in `@resend.dev`, and to my own address: the `MY_EMAIL` value in `.claude/settings.local.json`. Never send to any other address, including the practice leads in `leads/leads.csv`.
+  - The send guard (`.claude/hooks/send-guard.mjs`) enforces this. Don't try to get around a block.
 - Ask me before deleting anything, including files, folders and parts of a draft.
 
 ## Brand voice
